@@ -3,7 +3,7 @@
     <channel>
         <title>ตรวจสอบโรคใบพืช</title>
         <item>
-            <title>เวอร์ชัน 1.0.0</title>
+            <title>เวอร์ชัน 1.0.1</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
             <enclosure url="https://play.google.com/store/apps/details?id=check.disease.app&hl=th-TH" sparkle:version="1.0.1" sparkle:os="android" />
         </item>
